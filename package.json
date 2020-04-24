@@ -1,0 +1,12 @@
+{
+  "name": "te_node",
+  "version": "1.0.0",
+  "description": "学习项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "dro",
+  "license": "ISC"
+}
